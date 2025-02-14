@@ -1,3 +1,5 @@
+---
+
 # Hola, soy Eric Pedreros 👋
 
 Soy un apasionado **Desarrollador Web Full Stack** especializado en construir experiencias digitales modernas y eficientes utilizando tecnologías de vanguardia. Con una sólida base en **Frontend** y **Backend**, estoy comprometido en crear soluciones que sean tanto funcionales como atractivas.
@@ -5,54 +7,12 @@ Soy un apasionado **Desarrollador Web Full Stack** especializado en construir ex
 ---
 
 ## 📚 Índice
-- [Educación y Certificaciones](#-educación-y-certificaciones)
-- [Proyectos Destacados](#-proyectos-destacados)
-- [Sobre mí](#-sobre-mí)
-- [Contacto](#-contacto)
 - [Tecnologías y Herramientas](#-tecnologías-y-herramientas)
+- [Contacto](#-contacto)
+- [Sobre mí](#-sobre-mí)
+- [Proyectos Destacados](#-proyectos-destacados)
+- [Educación y Certificaciones](#-educación-y-certificaciones)
 
----
-
-## 🎓 Educación y Certificaciones
-
-### 📜 Certificado: Fundamentos Profesionales del Desarrollo de Software
-**Emitido por:** [Microsoft y LinkedIn](#)  
-**Fecha:** 16 de diciembre de 2024  
-**ID del certificado:** `9a46c8f7a2261a5575ae71afaddc5c77a9ec76ed9ee8b5dc8cda7d742558ab9b`  
-**Aptitudes tratadas:** Programación, Desarrollo de Software  
-
-### 🎓 Ingeniería en Informática
-**Instituto Profesional AIEP**  
-En curso, Ingenieria de Ejecucion en Informatica - mención Desarrollo de Sistemas (2023 - 2026)
-
-### 🎓 Técnico en Programación y Análisis de Sistemas
-**Instituto Profesional AIEP**  
-Egresado, Titulación en 2025 (2023 - 2024)
-
----
-
-## 🚀 Proyectos Destacados
-
-### 🌐 [E-commerce Moderno](https://github.com/ericpedreros/e-commerce-moderno)
-Plataforma de comercio electrónico con búsqueda avanzada, filtros dinámicos y sistema de carrito.  
-**Tecnologías:** Next.js, React, Tailwind CSS, Node.js, PostgreSQL.
-
-### 📁 [Portafolio Personal](https://github.com/ericpedreros/portafolio-personal)
-Diseño dinámico y responsivo para mostrar proyectos, habilidades y experiencia profesional.  
-**Tecnologías:** React, Next.js, Tailwind CSS, Motion.
-
-### 📝 [Gestor de Tareas](https://github.com/ericpedreros/gestor-de-tareas)
-Aplicación web para gestionar tareas con soporte CRUD y una interfaz intuitiva.  
-**Tecnologías:** React, Express.js, MongoDB.
-
----
-
-## 🌟 Sobre mí
-
-- 💡 Siempre estoy explorando nuevas tecnologías y metodologías para mejorar mis habilidades.
-- 🤝 Abierto a colaborar en proyectos que busquen tener un impacto positivo.
-- 🎯 Mi objetivo es combinar diseño y funcionalidad en cada proyecto que desarrollo.
-- 🔭 Actualmente, trabajando en nuevos proyectos interesantes.
 
 ---
 
@@ -66,25 +26,6 @@ Aplicación web para gestionar tareas con soporte CRUD y una interfaz intuitiva.
   <img src="https://github-readme-stats.vercel.app/api?username=ericpedreros&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ericpedreros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
----
-
-## 📫 Contacto
-
-¡Me encantaría conectar contigo! Puedes encontrarme en:
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/e-p-u" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:ericpedreros.work@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
-  </a>
-  <a href="https://wa.me/+56944843298">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
-  </a>
-</p>
 
 
 ---
@@ -138,3 +79,62 @@ Aplicación web para gestionar tareas con soporte CRUD y una interfaz intuitiva.
 </div>
 
 ---
+
+## 📫 Contacto
+
+¡Me encantaría conectar contigo! Puedes encontrarme en:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/e-p-u" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ericpedreros.work@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  </a>
+  <a href="https://wa.me/+56944843298">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
+  </a>
+</p>
+
+---
+
+## 🌟 Sobre mí
+
+- 💡 Siempre estoy explorando nuevas tecnologías y metodologías para mejorar mis habilidades.
+- 🤝 Abierto a colaborar en proyectos que busquen tener un impacto positivo.
+- 🎯 Mi objetivo es combinar diseño y funcionalidad en cada proyecto que desarrollo.
+- 🔭 Actualmente, trabajando en nuevos proyectos interesantes.
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🌐 [E-commerce Moderno](https://https://github.com/ericpedreros/E-Commerce)
+Plataforma de comercio electrónico con búsqueda avanzada, filtros dinámicos y sistema de carrito.  
+**Tecnologías:** Next.js, React, Tailwind CSS, Node.js, PostgreSQL.
+
+### 📁 [Portafolio Personal]
+Diseño dinámico y responsivo para mostrar proyectos, habilidades y experiencia profesional.  
+**Tecnologías:** React, Next.js, Tailwind CSS, Motion.
+
+---
+
+## 🎓 Educación y Certificaciones
+
+### 📜 Certificado: Fundamentos Profesionales del Desarrollo de Software
+**Emitido por:** [Microsoft y LinkedIn](#)  
+**Fecha:** 16 de diciembre de 2024  
+**ID del certificado:** `9a46c8f7a2261a5575ae71afaddc5c77a9ec76ed9ee8b5dc8cda7d742558ab9b`  
+**Aptitudes tratadas:** Programación, Desarrollo de Software  
+
+### 🎓 Ingeniería en Informática
+**Instituto Profesional AIEP**  
+En curso, Ingenieria de Ejecucion en Informatica - mención Desarrollo de Sistemas (2023 - 2026)
+
+### 🎓 Técnico en Programación y Análisis de Sistemas
+**Instituto Profesional AIEP**  
+Egresado, Titulación en 2025 (2023 - 2024)
+
+---
+
+
